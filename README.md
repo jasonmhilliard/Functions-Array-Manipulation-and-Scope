@@ -3,26 +3,20 @@ Week5: Functions Array Manipulation and Scope
 
 I. File list
 ------------
-Introduction to JavaScript- Variables, Arrays, Functions, Objects and Loops - Microsoft Word Document
-
-ES6_Style_Guide - MD File
+Manipulating Arrays - Microsoft Word Document
 
 arrayManipulationExercise - JavaScript File
 
 
 II. Concept
 ----------
-The word document breaks down the fundamental building blocks of JavaScript code-  Variables, Arrays, Functions, Objects and Loops along with some small code examples for each that you can run in the developer tools in the browser console.
-
-The ES6 Style Guide gives you proper syntax and style when you are coding. It is especially important to use the proper style when you are working on a development project with other team members.
+The word document desribes working with Arrays in JavaScript. An analagoy for an array in JS can be thought of as a library that holds books.  If you want to retreive a specific book from the libarary, you need to know the proper JS command.
 
 The arrayManipulationExercise JS file allows you to manipulate arrays in JS using the array.slice and array.splice commands.
 
 
 III. Future Improvements
 ----------
-Expansion of the ES6 Style Guide. An excellent online reference for JS style guide is airbnb: https://airbnb.io/javascript/
-
 Expansion of the arrayManipulationExercise to include other commands such as array.push and array.pop.
 
 IV.  License
