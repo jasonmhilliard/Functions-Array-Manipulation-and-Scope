@@ -7,12 +7,16 @@ Manipulating Arrays - Microsoft Word Document
 
 arrayManipulationExercise - JavaScript File
 
+fatArrowFunctionExamples - JavaScript File
+
 
 II. Concept
 ----------
 The word document desribes working with Arrays in JavaScript. An analagoy for an array in JS can be thought of as a library that holds books.  If you want to retreive a specific book from the libarary, you need to know the proper JS command.
 
 The arrayManipulationExercise JS file allows you to manipulate arrays in JS using the array.slice and array.splice commands.  You can practice this by using the developer tools in your browser.
+
+The fatArrowFunctionExample JavaScript file allows you to see an alternative method to creating functions in JS using Fat Arrows. You can practice this by using the developer tools in your browser.
 
 
 III. Future Improvements
